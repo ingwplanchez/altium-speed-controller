@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C2 Old Footprint=CAP_RCE5C1H104J2A2H03B New Footprint=RCE5C1H104J2A2H03B
+Change Component Footprint: Designator=D2 Old Footprint=DIOAD753W49L380D172B New Footprint=DIOAD1165W56L425D185
+Change Component Footprint: Designator=D3 Old Footprint=DIOAD753W49L380D172B New Footprint=DIOAD1165W56L425D185
+Change Component Comment: Designator=D2 Old Comment=1N4148 New Comment=1N4148,133
+Change Component Comment: Designator=D3 Old Comment=1N4148 New Comment=1N4148,133

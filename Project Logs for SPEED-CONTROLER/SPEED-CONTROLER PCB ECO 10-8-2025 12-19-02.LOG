@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_K Pin=D2-K
+Added Pin To Net: NetName=NetD2_K Pin=D3-A
+Added Pin To Net: NetName=NetD3_K Pin=D3-K
+Added Room: Name=SPEED-CONTROLER

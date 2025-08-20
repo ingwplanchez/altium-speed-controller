@@ -1,0 +1,11 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~SPEED-CONTROLER.PrjPCB|ReportField=ProjectFullPath~C:\Users\USER\Documents\wplanchez\Portafolio\Proyectos\Electronica\Altium\SPEED CONTROLER\SPEED-CONTROLER.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [SPEED-CONTROLER.PcbDoc]|ReportField=ReportTime~13:00:48|ReportField=ReportDate~19/8/2025|ReportField=ReportDateTime~19/8/2025 13:00:48|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~14|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=DataSourceFileName~SPEED-CONTROLER.PcbDoc|ReportField=DataSourceFullPath~C:\Users\USER\Documents\wplanchez\Portafolio\Proyectos\Electronica\Altium\SPEED CONTROLER\SPEED-CONTROLER.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|RHS7J2D103J2DGH01A|Capacitor|C1|RHS7J2D103J2DGH01A|RHS7J2D103J2DGH01A|1
+2|RCE5C1H104J2A2H03B|Multilayer Ceramic Capacitors MLCC - Leaded|C2|CAP_RCE5C1H104J2A2H03B|RCE5C1H104J2A2H03B|1
+3|1N4007-E3_73|Diode|D1|DIOAD1405W86L465D235|1N4007-E3_73|1
+4|1N4148,133|Diode Standard 75V 200mA Surface Mount SOD-523F|D2, D3|DIOAD753W49L380D172B|1N4148|2
+5|LM555CN_NOPB|Integrated Circuit|IC1|DIP794W53P254L959H508Q8N|LM555CN_NOPB|1
+6|1760510000|Connector|J1, J2|1760510000|1760510000|2
+7|IRFZ24NPBF|MOSFET (N-Channel)|Q1|TO254P469X1042X1967-3P|IRFZ24NPBF|1
+8|MF1_4DCT26A1001F|Resistor|R1, R2, R3|RESAD1630W60L710D230|MF1_4DCT26A1001F|3
+9|MHS12204|Switch|S1|MHS12204|MHS12204|1
+10|P160KN-2QC15B10K|Variable Resistor|VR1|P160KN2QC15B10K|P160KN-2QC15B10K|1

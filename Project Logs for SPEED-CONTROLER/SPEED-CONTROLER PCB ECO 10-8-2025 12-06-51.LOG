@@ -1,0 +1,32 @@
+Change component parameters: Designator = "D2"; Footprint = "DIOAD1165W56L425D185"; UniqueID = "\MHXVFKSG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N4148/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1N4148"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "AXIAL LEAD-2 ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4148/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3"; Footprint = "DIOAD1165W56L425D185"; UniqueID = "\NVQPTMWD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N4148/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1N4148"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "AXIAL LEAD-2 ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4148/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "RCE5C1H104J2A2H03B"; UniqueID = "\UPLSERGB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RCE5C1H104J2A2H03B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD2_A Pin=VR1-1
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD2_K Pin=IC1-7
+Added Pin To Net: NetName=NetD2_K Pin=R1-2
+Added Net: Name=NetD2_K
+Added Pin To Net: NetName=NetD3_K Pin=VR1-3
+Added Net: Name=NetD3_K
+Added Room: Name=SPEED-CONTROLER
