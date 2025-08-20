@@ -1,55 +1,49 @@
-# Prerequisites
-*.d
+# Archivos temporales y de respaldo
+*.~*
+*.bak
+*.log
+*.tmp
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# Archivos de compilación y simulación
+*.xps
+*.xpd
+*.xpr
+*.xpg
+*.xpt
+*.xpb
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# Archivos de salida y fabricación
+*.pdf
+*.gerber
+*.gbr
+*.drl
+*.zip
+*.7z
+*.rar
 
-# Precompiled Headers
-*.gch
-*.pch
+# Carpetas de salida comunes
+__Previews/
+Project Outputs/
+Simulation Outputs/
+Generated/
+History/
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# Archivos de configuración local
+*.ini
+*.cfg
+*.db
+*.ldb
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# Archivos de caché y sistema
+Thumbs.db
+Desktop.ini
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
-
-# debug information files
-*.dwo
+# Archivos específicos de Altium
+*.PcbDocPreview
+*.SchDocPreview
+*.PrjPCBStructure
+*.PrjPCBVariants
+*.PrjPCBSettings
+*.PrjPCBStorage
+*.PcbDoc.1
+*.SchDoc.1
